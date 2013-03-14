@@ -46,5 +46,7 @@ Contact Information
 -------------------
 
 Author: Vteams
+
 E-mail: <imran@nxvt.com>
+
 Homepage: <http://www.vteams.com/>
