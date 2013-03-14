@@ -15,7 +15,7 @@ Features
 Caveats
 -------
 
-This is `alpha` release so please expect some bugs. You may help us by reporting the bugs.
+This is `alpha` release so there could be some bugs. You may contribute by reporting the bugs you encouter.
 
 Requirements
 ------------
