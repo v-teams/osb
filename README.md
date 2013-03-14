@@ -1,4 +1,4 @@
-osb
+Open Source Billing
 ===
 
-First test repository
+This is the test repository for Open Source Billing. We'll uploading the source code soon.
